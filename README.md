@@ -18,10 +18,10 @@ These labs map to objectives across that path, starting with A+ fundamentals.
 
 | # | Lab | Focus | Cert Track |
 |---|-----|-------|-----------|
-| 1 | [Build a Windows 11 VM](labs/lab-01-vm-setup.md) | Virtualization, OS install, snapshots | A+ |
-| 2 | [Windows Administration & Break/Fix](labs/lab-02-windows-admin.md) | CLI diagnostics, system tools, user management | A+ |
-| 3 | [Local Security: Permissions & Firewall](labs/lab-03-local-security.md) | NTFS permissions, Windows Firewall | A+ |
-| 4 | [Imaging, Cloning & Partitioning](labs/lab-04-imaging-partitioning.md) | Deployment, disk management | A+ |
+| 1 | [Build a Windows 11 VM](lab-01-vm-setup.md) | Virtualization, OS install, snapshots | A+ |
+| 2 | [Windows Administration & Break/Fix](lab-02-windows-admin.md) | CLI diagnostics, system tools, user management | A+ |
+| 3 | [Local Security: Permissions & Firewall](lab-03-local-security.md) | NTFS permissions, Windows Firewall | A+ |
+| 4 | [Imaging, Cloning & Partitioning](lab-04-imaging-partitioning.md) | Deployment, disk management | A+ |
 
 *More labs in progress — Active Directory, pfSense networking, and AWS cloud security to come.*
 
