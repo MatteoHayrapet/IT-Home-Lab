@@ -22,6 +22,7 @@ These labs map to objectives across that path, starting with A+ fundamentals.
 | 2 | [Windows Administration & Break/Fix](lab-02-windows-admin.md) | CLI diagnostics, system tools, user management | A+ |
 | 3 | [Local Security: Permissions & Firewall](lab-03-local-security.md) | NTFS permissions, Windows Firewall | A+ |
 | 4 | [Imaging, Cloning & Partitioning](lab-04-imaging-partitioning.md) | Deployment, disk management | A+ |
+| 6 | [Active Directory: DC & Domain Join](lab-06-active-directory.md) | Domain controller, AD, DNS, domain join | A+ / Net+ |
 
 *More labs in progress — Active Directory, pfSense networking, and AWS cloud security to come.*
 
