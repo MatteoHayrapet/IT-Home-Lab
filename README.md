@@ -23,6 +23,7 @@ These labs map to objectives across that path, starting with A+ fundamentals.
 | 3 | [Local Security: Permissions & Firewall](lab-03-local-security.md) | NTFS permissions, Windows Firewall | A+ |
 | 4 | [Imaging, Cloning & Partitioning](lab-04-imaging-partitioning.md) | Deployment, disk management | A+ |
 | 6 | [Active Directory: DC & Domain Join](lab-06-active-directory.md) | Domain controller, AD, DNS, domain join | A+ / Net+ |
+| 6b | [Active Directory on Hyper-V (Rebuild)](lab-06b-hyperv-ad-rebuild.md) | Hyper-V, Gen 2 VMs, PowerShell AD, forest promotion | A+ / Net+ |
 
 *More labs in progress — Active Directory, pfSense networking, and AWS cloud security to come.*
 
